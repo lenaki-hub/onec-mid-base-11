@@ -214,10 +214,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="9bbcd8ec-58b9-4c2c-8447-bc37ce99bfcf">
-    <name>ДК_СогласованаяСкидка</name>
+    <name>ДК_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
-      <value>Согласованая скидка</value>
+      <value>Согласованная скидка</value>
     </synonym>
     <type>
       <types>Number</types>
